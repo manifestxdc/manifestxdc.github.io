@@ -1,0 +1,13 @@
+title: ManifestX DC
+email: ManifestXDC@gmail.com
+description: >-
+  Minimalist event site for ManifestX DC
+baseurl: ""
+url: "https://manifestxdc.github.io"
+theme: null
+markdown: kramdown
+plugins:
+  - jekyll-feed
+exclude:
+  - template.html
+  - about.md
