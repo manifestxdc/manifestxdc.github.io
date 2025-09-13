@@ -5,6 +5,7 @@ body {
   background: #eaf2fb;
   color: #1a2a4f;
 }
+<<<<<<< HEAD
 .crane-row {
   display: flex;
   justify-content: center;
@@ -18,6 +19,8 @@ body {
   opacity: 0.92;
   filter: drop-shadow(0 1px 2px rgba(26,42,79,0.10));
 }
+=======
+>>>>>>> 1fb8ad3a7b3770111963f328d4623dfa3360fa4f
 .container {
   max-width: 480px;
   margin: 48px auto;
