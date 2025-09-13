@@ -7,9 +7,12 @@ body {
 }
 
 .container {
-	max-width: 480px;
-	margin: 48px auto;
-	padding: 32px;
+	max-width: clamp(320px, 90vw, 480px);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: clamp(16px, 6vw, 48px);
+	margin-bottom: clamp(16px, 6vw, 48px);
+	padding: clamp(12px, 4vw, 32px);
 	background: #fff;
 	border-radius: 12px;
 	box-shadow: 0 2px 16px rgba(26,42,79,0.08);
@@ -18,11 +21,12 @@ body {
 }
 
 .crane-row {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	gap: 12px;
-	margin: 16px 0;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 0;
+		margin: 4px 0;
+		width: 100%;
 }
 .crane {
 	width: 36px;
@@ -78,13 +82,16 @@ a:hover {
 }
 
 @media (max-width: 600px) {
-	.container {
-		max-width: 98vw;
-		margin: 16px auto;
-		padding: 16px;
-		border-radius: 8px;
-		box-shadow: 0 1px 8px rgba(26,42,79,0.06);
-	}
+		.container {
+			max-width: 98vw;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: clamp(8px, 4vw, 16px);
+			margin-bottom: clamp(8px, 4vw, 16px);
+			padding: clamp(8px, 4vw, 16px);
+			border-radius: 8px;
+			box-shadow: 0 1px 8px rgba(26,42,79,0.06);
+		}
 	h1 {
 		font-size: 1.5rem;
 	}
