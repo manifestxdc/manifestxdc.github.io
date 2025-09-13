@@ -6,13 +6,15 @@ body {
 	color: #1a2a4f;
 }
 
+.content-wrapper {
+	max-width: 480px;
+	margin: 0 auto;
+	padding: 0 1rem;
+	box-sizing: border-box;
+}
+
 .container {
-	max-width: clamp(320px, 90vw, 480px);
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: clamp(16px, 6vw, 48px);
-	margin-bottom: clamp(16px, 6vw, 48px);
-	padding: clamp(12px, 4vw, 32px);
+	padding: 2rem 0;
 	background: #fff;
 	border-radius: 12px;
 	box-shadow: 0 2px 16px rgba(26,42,79,0.08);
@@ -25,7 +27,7 @@ body {
 		justify-content: space-between;
 		align-items: center;
 		gap: 0;
-		margin: 4px 0;
+		margin: 8px 0;
 		width: 100%;
 }
 .crane {
@@ -81,24 +83,9 @@ a:hover {
 	text-decoration: underline;
 }
 
-@media (max-width: 600px) {
-		.container {
-			max-width: 98vw;
-			margin-left: auto;
-			margin-right: auto;
-			margin-top: clamp(8px, 4vw, 16px);
-			margin-bottom: clamp(8px, 4vw, 16px);
-			padding: clamp(8px, 4vw, 16px);
-			border-radius: 8px;
-			box-shadow: 0 1px 8px rgba(26,42,79,0.06);
-		}
-	h1 {
-		font-size: 1.5rem;
-	}
-	.subtitle {
-		font-size: 1rem;
-	}
-	.details h2, .contact h2 {
-		font-size: 1rem;
-	}
+.footer {
+	text-align: center;
+	font-size: 0.8rem;
+	color: #666;
+	padding: 1rem 0;
 }
