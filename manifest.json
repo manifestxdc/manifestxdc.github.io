@@ -1,0 +1,9 @@
+{
+  "name": "ManifestX DC",
+  "short_name": "ManifestXDC",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "description": "Minimalist event site for ManifestX DC",
+  "icons": []
+}
