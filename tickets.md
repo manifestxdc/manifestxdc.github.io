@@ -7,12 +7,12 @@ title: Get Tickets - Manifest x DC
 Tickets for Manifest x DC will be available soon!
 
 ## Ticket Information
-- **Early Bird:** Coming soon
-- **Regular Admission:** Coming soon
+- **Early Bird:** $50 
+- **Regular Admission:** $65
 
 Please check back for updates on ticket availability and pricing.
 
 ## Questions?
-Email us at [ManifestXDC@gmail.com](mailto:ManifestXDC@gmail.com) for ticket inquiries.
+Email us at [ManifestxDC@gmail.com](mailto:ManifestxDC@gmail.com) for ticket inquiries.
 
 [← Back to Home](/)
