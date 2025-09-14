@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Get Tickets - ManifestX DC
+title: Get Tickets - Manifest x DC
 ---
 # Get Tickets
 
-Tickets for ManifestX DC will be available soon!
+Tickets for Manifest x DC will be available soon!
 
 ## Ticket Information
 - **Early Bird:** Coming soon
 - **Regular Admission:** Coming soon
-- **Student Discount:** Available upon request
 
 Please check back for updates on ticket availability and pricing.
 

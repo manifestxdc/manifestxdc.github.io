@@ -1,8 +1,8 @@
 ---
 layout: default
-title: ManifestX DC
+title: Manifest x DC
 ---
-# ManifestX DC
+# Manifest x DC
 
 A one-day unconference in Washington, DC
 
@@ -11,7 +11,7 @@ A one-day unconference in Washington, DC
 - **Locations:**
 	- Workshop House: Logan Circle, DC.
 	- Embassy House: Kalorama, DC.
-- **Description:** ManifestX DC is a participant-driven unconference and afterparty, hosted in two beautiful group houses near downtown DC. Join us for talks, breakout sessions, and community building throughout the day and evening.
+- **Description:** Manifest x DC is a participant-driven unconference and afterparty, hosted in two beautiful group houses near downtown DC. Join us for talks, breakout sessions, and community building throughout the day and evening.
 
 [Get Tickets](/tickets)
 
