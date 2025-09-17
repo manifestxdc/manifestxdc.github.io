@@ -4,11 +4,12 @@ title: Get Tickets - Manifest x DC
 ---
 # Get Tickets
 
-Tickets for Manifest x DC will be available soon!
+[Purchase your tickets here](https://luma.com/f4bnrtwq)
 
 ## Ticket Information
 - **Early Bird:** $50 
 - **Regular Admission:** $65
+- **Late Registration** $80 (if available)
 
 Please check back for updates on ticket availability and pricing.
 
